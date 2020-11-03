@@ -57,6 +57,9 @@ def animate():
 def flick():
 	state['turn'] += 40
 
+def stop():
+	state['turn'] = 40
+
 # main function
 def main():
 	border.penup()
@@ -80,6 +83,7 @@ def main():
 
 	win.tracer(False)
 	win.onkey(flick, 'space')
+	win.onkey(stop, 'Escape')
 	win.listen()
 	animate()
 

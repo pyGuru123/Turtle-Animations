@@ -11,18 +11,18 @@ win = turtle.Screen()
 win.setup(width=840,height=500)
 win.bgcolor('black')
 
-win.addshape('ross.gif')
-win.addshape('joey.gif')
-win.addshape('chandler.gif')
-win.addshape('monica.gif')
-win.addshape('rachel.gif')
-win.addshape('phoebe.gif')
-win.addshape('friends1.gif')
-win.addshape('friends2.gif')
-win.addshape('coffee.gif')
-win.addshape('sofa.gif')
-win.addshape('song.gif')
-win.addshape('end.gif')
+win.addshape('images/ross.gif')
+win.addshape('images/joey.gif')
+win.addshape('images/chandler.gif')
+win.addshape('images/monica.gif')
+win.addshape('images/rachel.gif')
+win.addshape('images/phoebe.gif')
+win.addshape('images/friends1.gif')
+win.addshape('images/friends2.gif')
+win.addshape('images/coffee.gif')
+win.addshape('images/sofa.gif')
+win.addshape('images/song.gif')
+win.addshape('images/end.gif')
 
 winsound.PlaySound('friends.wav',winsound.SND_ASYNC)
 
@@ -59,29 +59,29 @@ def write(message,pos):
 	text.hideturtle()
 
 
-coffee = create('coffee.gif',(0,0))
+coffee = create('images/coffee.gif',(0,0))
 sleep(3)
 coffee.hideturtle()
 
-friends1 = create('friends1.gif',(0,0))
+friends1 = create('images/friends1.gif',(0,0))
 sleep(1)
 friends1.hideturtle()
 
-joey = create('joey.gif',(-350,0))
+joey = create('images/joey.gif',(-350,0))
 write("How you doing !",(-60,0))
 sleep(2)
 text.clear()
 joey.hideturtle()
 show(friends1)
 
-chandler = create('chandler.gif',(-210,0))
+chandler = create('images/chandler.gif',(-210,0))
 write("oh, i dont't care.",(-60,0))
 sleep(2)
 text.clear()
 chandler.hideturtle()
 show(friends1)
 
-ross = create('ross.gif',(-70,0))
+ross = create('images/ross.gif',(-70,0))
 write("we were on a break",(40,0))
 sleep(2)
 text.clear()
@@ -89,21 +89,21 @@ ross.hideturtle()
 show(friends1)
 
 
-monica = create('monica.gif',(70,0))
+monica = create('images/monica.gif',(70,0))
 write('I know',(-210,0))
 sleep(2)
 text.clear()
 monica.hideturtle()
 show(friends1)
 
-rachel = create('rachel.gif',(210,0))
+rachel = create('images/rachel.gif',(210,0))
 write("No uterus, no opinion",(-280,0))
 sleep(2)
 text.clear()
 rachel.hideturtle()
 show(friends1)
 
-phoebe = create('phoebe.gif',(350,0))
+phoebe = create('images/phoebe.gif',(350,0))
 write("oh, i wish i could",(-230,0))
 write("but i dont want to",(-230,-40))
 sleep(2)
@@ -114,21 +114,21 @@ friends1.showturtle()
 sleep(2)
 friends1.hideturtle()
 
-friends2 = create('friends2.gif',(0,0))
+friends2 = create('images/friends2.gif',(0,0))
 
 sleep(3)
 
 friends2.hideturtle()
 
-sofa = create('sofa.gif',(0,0))
+sofa = create('images/sofa.gif',(0,0))
 sleep(5)
 sofa.hideturtle()
 
-song = create('song.gif',(0,0))
+song = create('images/song.gif',(0,0))
 sleep(13)
 song.hideturtle()
 
-end = create('end.gif',(0,0))
+end = create('images/end.gif',(0,0))
 
 
 
