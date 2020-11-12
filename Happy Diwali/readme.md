@@ -10,7 +10,7 @@ Happy Diwali is a simple happy diwali animation made with python and turtle.
 
 ## How to Download
 
-Download this project from here [Download Fidget Spinner](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Turtle-Animations/tree/main/Happy%20Diwali)
+Download this project from here [Download Happy Diwali](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Turtle-Animations/tree/main/Happy%20Diwali)
 
 ## Requirements
 
