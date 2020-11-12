@@ -1,16 +1,16 @@
-# Night sky animation
+# Happy Diwali
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-Night sky animation is a animation to simulate stars and moon in night sky.
+Happy Diwali is a simple happy diwali animation made with python and turtle.
 
-![Alt text](app.png?raw=true "Night sky animation")
+![Alt text](app.png?raw=true "Happy Diwali")
 
 ## How to Download
 
-Download this project from here [Download Night sky animation](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Turtle-Animations/tree/main/Night%20Sky)
+Download this project from here [Download Fidget Spinner](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Turtle-Animations/tree/main/Happy%20Diwali)
 
 ## Requirements
 

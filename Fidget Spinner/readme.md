@@ -1,6 +1,10 @@
 # Fidget Spinner
 
-Fidget Spinner is a simple fidget spinner simlation made with python and turtle.
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+Fidget Spinner is a simple fidget spinner simulation made with python and turtle.
 
 ![Alt text](app.png?raw=true "Fidget Spinner")
 

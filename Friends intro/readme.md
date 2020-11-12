@@ -1,5 +1,9 @@
 # Friends tribute animation
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 Friends tribute animation is a simple tribute animation for our beloved friens series.
 
 ![Alt text](app.png?raw=true "Friends tribute animation")
