@@ -10,7 +10,7 @@ Happy Holi is a simple happy holi animation made with python and turtle.
 
 ## How to Download
 
-Download this project from here [Download Happy Holi](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Turtle-Animations/tree/main/Happy%20Diwali)
+Download this project from here [Download Happy Holi](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Turtle-Animations/tree/main/Happy%20Holi)
 
 ## Requirements
 
