@@ -1,24 +1,27 @@
-# Happy Diwali
+# Shiva Sketch
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-Happy Diwali is a simple happy diwali animation made with python and turtle.
+Its a simple lord shiva sketch made using turtle and opencv
 
-![Alt text](app.png?raw=true "Happy Diwali")
+![Alt text](shiva.jpg?raw=true "Lord Shiva")
 
 ## How to Download
 
-Download this project from here [Download Happy Diwali](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Turtle-Animations/tree/main/Happy%20Diwali)
+Download this project from here [Download Shiva SKetch](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Turtle-Animations/tree/main/Shiva%20Sketch)
 
 ## Requirements
 
-No external library / module is required.
+```bash
+pip install opencv-python
+pip install numpy
+```
 
 ## Usage
 
-Double click the application.py to play the animation
+Double click the main.py to play the animation
 
 
 ## Contributing
